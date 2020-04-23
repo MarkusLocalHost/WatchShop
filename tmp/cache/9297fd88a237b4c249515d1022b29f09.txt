@@ -1,0 +1,82 @@
+a:2:{s:4:"data";s:2049:"<li>
+    <a href="category/men">Men</a>
+            <ul>
+            <li>
+    <a href="category/elektronnye">Electronic</a>
+            <ul>
+            <li>
+    <a href="category/casio">Casio</a>
+    </li>
+<li>
+    <a href="category/citizen">Citizen</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/mehanicheskie">Mechanical</a>
+            <ul>
+            <li>
+    <a href="category/royal-london">Royal London</a>
+    </li>
+<li>
+    <a href="category/seiko">Seiko</a>
+    </li>
+<li>
+    <a href="category/epos">Epos</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/women">Women</a>
+            <ul>
+            <li>
+    <a href="category/elektronnye-11">Electronic</a>
+            <ul>
+            <li>
+    <a href="category/adriatica">Adriatica</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/mehanicheskie-12">Mechanical</a>
+            <ul>
+            <li>
+    <a href="category/anne-klein">Anne Klein</a>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/kids">Kids</a>
+    </li>
+<li>
+    <a href="category/test">Test</a>
+            <ul>
+            <li>
+    <a href="category/vtoraya-testovaya-kategoriya">Вторая тестовая категория</a>
+            <ul>
+            <li>
+    <a href="category/testovaya-kategoriya-27">Тестовая категория</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/tret-ya-testovaya-kategoriya">Третья тестовая категория</a>
+    </li>
+<li>
+    <a href="category/kategoriya-v-kategorii-1-red">Категория в категории 1</a>
+            <ul>
+            <li>
+    <a href="category/kategoriya-v-kategorii-3">Категория в категории 3</a>
+    </li>
+        </ul>
+    </li>
+<li>
+    <a href="category/test-after">Test After</a>
+    </li>
+        </ul>
+    </li>
+<li><a href='#'>Blog</a></li><li><a href='#'>Contact</a></li>";s:8:"end_time";i:1587460458;}
